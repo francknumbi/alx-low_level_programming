@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  *cool
  */
 int main(void)
